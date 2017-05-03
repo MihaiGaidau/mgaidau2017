@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'mgaidau2017_Example' do
+  pod 'mgaidau2017', :path => '../'
+
+  target 'mgaidau2017_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
