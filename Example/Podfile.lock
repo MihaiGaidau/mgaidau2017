@@ -1,0 +1,16 @@
+PODS:
+  - mgaidau2017 (0.1.0)
+
+DEPENDENCIES:
+  - mgaidau2017 (from `../`)
+
+EXTERNAL SOURCES:
+  mgaidau2017:
+    :path: ../
+
+SPEC CHECKSUMS:
+  mgaidau2017: cfb0bd48895b684bb4797a87a01e035d5107b2a0
+
+PODFILE CHECKSUM: 3c870b5d1afa863b2f3ab96bcc8281be3f0fe5b5
+
+COCOAPODS: 1.2.1

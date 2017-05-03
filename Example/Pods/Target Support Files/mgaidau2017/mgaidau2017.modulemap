@@ -1,0 +1,6 @@
+framework module mgaidau2017 {
+  umbrella header "mgaidau2017-umbrella.h"
+
+  export *
+  module * { export * }
+}
